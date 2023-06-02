@@ -1,0 +1,94 @@
+.title{
+    border: 1px solid gray;
+    height: 200px;
+    width: 100%;
+    background-color: aqua;
+    color: white;
+    text-align: center;
+}
+#btn{
+    margin-top: 30px;
+}
+#mainCard1{
+    /* display: flex; */
+    text-align: center;
+    margin-top: 30px
+}
+#mainCard2{
+    text-align: center;  
+}
+.cardFlex{
+    
+    justify-content: center;  
+    align-items: center;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#card1{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+}
+#card2{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-left: 10px;
+    margin-right: 10px;
+}#card3{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-left: 10px;
+    margin-right: 10px;
+}#card4{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}#card5{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}#card6{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}#card7{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}#card8{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}#card9{
+    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.view{
+    margin-top: 320px;
+    justify-content: center;
+    align-items: center;
+}
