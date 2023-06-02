@@ -1,4 +1,4 @@
-fetch('./class.json').then((response.json)).then((json.card)=>)
+fetch('./class.json').then((response.json)).then((json.card)=>())
 console.log(jsondata)
 const cardsContainer= document.getElementById("card-container");
 
